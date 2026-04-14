@@ -223,7 +223,7 @@ Turns 81–100 │ tokens:  8,300 │ chunks: 3 │ ✅  ← archive triggered
 
 ## ✅ The Memory Test (Proven Working)
 
-1. Start a chat: *"My name is Muhammad and I study at FAST Islamabad."*
+1. Start a chat: *"My name is Muhammad and I study at FAST Peshawar."*
 2. Have a long conversation on other topics until compression fires (`🗜️ YES`)
 3. Ask: *"What is my name and what university do I go to?"*
 
